@@ -1,0 +1,35 @@
+Kalau pake NIS
+- siswa = nis , walikelas =
+- 3 login page 
+- 3 table (siswa, walikelas, admin)
+
+Kalau pake email
+- 1 login page
+- 4 table (siswa, walikelas, admin, login)
+
+siswa :
+- nis
+- email
+- nama
+- alamat
+- kelas
+- jurusan
+
+walikelas :
+- id 
+- email
+- nama
+- alamat
+- kelas
+
+mapel :
+- id
+- nama mapel
+- jurusan
+
+
+user :
+- id
+- email
+- password
+- role_id
